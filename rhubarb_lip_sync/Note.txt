@@ -1,0 +1,8 @@
+(only for cmd)
+.\rhubarb -o output.txt -r phonetic --extendedShapes "" -f json "C:\Users\DELL\Desktop\列克星敦虚拟主播_无原声_mono.wav"
+
+.\rhubarb -o output.txt "C:\Users\DELL\Desktop\列克星敦虚拟主播_无原声_mono.wav"
+
+.\rhubarb -o output.txt test.wav
+
+.\rhubarb -o output.json -r phonetic --extendedShapes "" -f json test.wav
